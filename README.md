@@ -5,9 +5,9 @@
 > "试图定义自己，就像试图用牙齿咬到自己的牙齿。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以艾伦·沃茨的视角回应你 -- 东西方哲学的诗意融合与当下觉醒**
+**让 AI 以艾伦·沃茨的视角回应你 -- 东西方哲学的诗意融合与当下觉醒**
 
 </div>
 
